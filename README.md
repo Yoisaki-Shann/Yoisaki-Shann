@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Yoisaki Shann a Computing Student 
 
 <!--
 **Yoisaki-Shann/Yoisaki-Shann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
