@@ -1,7 +1,8 @@
 Hi I'm Shann
 ---
 Computing student  | Aspiring Software Engineer | Interested in AI/ML development and Full-Stack Development
-
+Stack
+---
 Java | Python | JavaScript | TypeScript
 
 
