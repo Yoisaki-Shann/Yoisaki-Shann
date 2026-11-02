@@ -4,9 +4,8 @@ Computing student  | Aspiring Software Engineer | Interested in AI/ML developmen
 
 Stack
 ---
-Java | Python | JavaScript | TypeScript
-
-SQL | SQLite | PostgreSQL
+- Java | Python | JavaScript | TypeScript
+- MySQL | SQLite | PostgreSQL
 
 
 <!--
